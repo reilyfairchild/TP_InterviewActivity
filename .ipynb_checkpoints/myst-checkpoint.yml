@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: fff012d1-a3bb-4dd1-9f92-d7f6eed066e5
+  title: Reily Fairchild - Tipping Point Community Technical Interview
+  # description:
+  # keywords: []
+  authors: [Reily Fairchild]
+  github: https://github.com/reilyfairchild/TP_Technical_Interview
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
